@@ -241,7 +241,7 @@ cauldron:
       - '4d4133/8' # Gray-brown
 
   milk:
-    name: Milky water
+    name: Mliečna Voda
     ingredients: Milk_Bucket
     color: BRIGHT_GREY
     cookParticles:
@@ -249,7 +249,7 @@ cauldron:
       - 'WHITE/6'
 
   bl_flow:
-    name: Blueish brew
+    name: Modrý Nápoj
     ingredients: blue-flowers
     color: '0099ff' # sky blue
     cookParticles:
@@ -267,7 +267,7 @@ cauldron:
     ingredients: Poisonous_Potato
 
   egg:
-    name: Sticky brew
+    name: Lepkavý nápoj
     ingredients: Egg
 
 
@@ -276,7 +276,7 @@ cauldron:
     ingredients: Oak_Sapling
 
   vine:
-    name: Boiled herbs
+    name: Varené Bylinky
     ingredients: vine
     color: '99ff66' # bright green
     cookParticles:
@@ -304,7 +304,7 @@ cauldron:
     ingredients: Melon_Seeds
 
   pumpkin_seeds:
-    name: Bitter brew
+    name: Trpký nápoj
     ingredients: Pumpkin_Seeds
 
   bone_meal:
@@ -313,7 +313,7 @@ cauldron:
     color: BRIGHT_GREY
 
   cookie:
-    name: Chocolately sap
+    name: Čokoládový mok
     ingredients: Cookie
     color: '804600' # mocca
     cookParticles:
@@ -322,7 +322,7 @@ cauldron:
       - '4d4133/8' # Gray-brown
 
   fer_spid_eye:
-    name: Fermented Eye
+    name: Kvasené Oko
     ingredients: Fermented_Spider_Eye
 
   ghast_tear:
@@ -749,7 +749,7 @@ recipes:
       - SPEED/1/30-140
 
   eggnog:
-    name: Vajcový Likér/Vaječný Likér/Vyprošťovák
+    name: Vajcový Likér/Vaječný Likér/Báječný Likér
     ingredients:
       - Egg/5
       - Sugar/2
