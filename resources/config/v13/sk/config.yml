@@ -593,7 +593,7 @@ recipes:
       - +++ Good Apple Liquor
 
   whiskey:
-    name: Unsightly Whiskey/Whiskey/Scotch Whiskey
+    name: Matná Whiskey/Whiskey/Škótska Whiskey
     ingredients:
       - Wheat/10
     cookingtime: 10
@@ -607,7 +607,7 @@ recipes:
     lore: '&7Single Malt'
 
   rum:
-    name: Trpký Rum/Štipľavý Rum/&6Zlatý Rum
+    name: Trpký Rum/Sudový Rum/&6Zlatý Rum
     ingredients:
       - Sugar_Cane/18
     cookingtime: 6
@@ -627,7 +627,7 @@ recipes:
       - +++&eSpiced Gold
 
   vodka:
-    name: Lousy Vodka/Vodka/Russian Vodka
+    name: Domčeková Vodka/Vodka/Ruská Vodka
     ingredients:
       - Potato/10
     cookingtime: 15
@@ -636,7 +636,7 @@ recipes:
     color: WHITE
     difficulty: 4
     alcohol: 20
-    lore: + &8Almost undrinkable
+    lore: + &8Takmer nepiteľné
     effects:
       - WEAKNESS/15
       - POISON/10
@@ -662,7 +662,7 @@ recipes:
       - SLOW/10-3
 
   gin:
-    name: Pale Gin/Gin/Old Tom Gin
+    name: Svetlý Gin/Gin/Starý Tom Gin
     ingredients:
       - Wheat/9
       - blue-flowers/6  # Custom-Item: Blue Orchids or Cornflowers
@@ -675,7 +675,7 @@ recipes:
     lore:
       - ++ With the
       - ++ taste of juniper
-      - +++ Perfectly finished off
+      - +++ Perfektné chuťové zakončenie
       - +++ with juniper
 
   tequila:
@@ -692,7 +692,7 @@ recipes:
     lore: Desert spirit
 
   absinthe:
-    name: Poor Absinthe/Absinthe/Strong Absinthe
+    name: Lacný Absinth/Absinth/Silný Absinth
     ingredients:
       - Grass/15
     cookingtime: 3
@@ -723,7 +723,7 @@ recipes:
     lore: '&aLooks poisonous'
 
   potato_soup:
-    name: Potato soup
+    name: Zemiaková Polievočka
     ingredients:
       - Potato/5
       - Grass/3
@@ -732,9 +732,10 @@ recipes:
     difficulty: 1
     effects:
       - HEAL/0-1
+    lore: 'Zima je vonku.'
 
   coffee:
-    name: Stale Coffee/Coffee/Strong Coffee
+    name: Spodisková Káva/Káva/Silná Coffee
     ingredients:
       - Cocoa_Beans/12
       - Milk_Bucket/2
@@ -742,13 +743,13 @@ recipes:
     color: BLACK
     difficulty: 3
     alcohol: -6
-    lore: + &8Probably a week old
+    lore: + &8Asi týždeň stará
     effects:
       - REGENERATION/1/2-5
       - SPEED/1/30-140
 
   eggnog:
-    name: Egg Liquor/Eggnog/Advocaat
+    name: Vajcový Likér/Vaječný Likér/Vyprošťovák
     ingredients:
       - Egg/5
       - Sugar/2
@@ -759,7 +760,7 @@ recipes:
     alcohol: 10
     wood: 0
     age: 3
-    lore: Made with raw egg
+    lore: Obsahuje surové vajce
 
 
 
