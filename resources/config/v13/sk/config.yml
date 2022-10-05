@@ -641,6 +641,22 @@ recipes:
       - WEAKNESS/15
       - POISON/10
 
+  melon_vodka
+    name: Melonová Domáca/Melonová Pálenka/&6Melónovica
+    ingredients:
+      - melon_slince/20
+      - sugar/1
+    cookingtime: 10
+    distillruns: 3
+    age: 0
+    color: 'ff9999' # Pink-Red
+    difficultty: 3
+    alcohol: 9
+    lore: ++&aPoctivo pálená
+    effects:
+      - FIRE_RESISTANCE/1/20-60
+      - CONFUSION/6
+
   shroom_vodka:
     name: Hubová Vodka/Hubová Vodka/Svietiaca Hubová Vodka
     ingredients:
