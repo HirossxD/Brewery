@@ -171,6 +171,13 @@ cauldron:
     customModelData: 545
 
   # -- One Ingredient: --
+  pumpkin:
+    name: Tekvicový vývar
+    ingredients: Pumpkin
+    color: 'ffecb3' # yellow-orange
+    cookParticles:
+      - 'ffecb3' # yellow-orange
+  
   wheat:
     name: Kvasené obylie
     ingredients: Wheat
@@ -531,6 +538,21 @@ recipes:
       - '+ &8Korkované'
       - '++ &8Mäkké'
       - '+++ &8Sýte'
+
+  pumpkin_wine
+    name: Tekvicové víno
+    ingredients:
+      - Pumpkin/10
+      - Sugar/2
+    cookingtime: 5
+    distillruns: 0
+    wood: 0
+    age: 1
+    color: ORANGE
+    difficulty: 2
+    alcohol: 2
+    lore:
+      - 'Slabé ale chutné'
 
   mead:
     name: Slabá Medovina/Medovina/&6Zlatá Medovina
