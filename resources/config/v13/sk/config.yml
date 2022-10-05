@@ -539,7 +539,7 @@ recipes:
       - '++ &8Mäkké'
       - '+++ &8Sýte'
 
-  pumpkin_wine
+  pumpkin_wine:
     name: Tekvicové víno
     ingredients:
       - Pumpkin/10
