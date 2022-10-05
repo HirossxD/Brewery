@@ -768,9 +768,23 @@ recipes:
     cookingtime: 3
     color: ORANGE
     difficulty: 1
+    alcohol: -1
     effects:
       - HEAL/0-1
     lore: 'Zima je vonku.'
+
+  pork_soup:
+    name: Bravčový vývar
+    ingredients:
+      - Potato/3
+      - Carrot/3
+      - Porkchop/1
+    color: ORANGE
+    difficulty: 2
+    alcohol: -3
+    effects:
+      - HEAL/1-2
+    lore: 'Konzumuj kým je teplá'
 
   coffee:
     name: Spodisková Káva/Káva/Silná Coffee
