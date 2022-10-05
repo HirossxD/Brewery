@@ -7,14 +7,14 @@ Brew_Distilled: Destilované
 Brew_LessDistilled: Menej Destilované
 Brew_HundredsOfYears: Stovky Rokov
 Brew_Ingredients: Ingrediencie
-Brew_MinutePluralPostfix: s
+Brew_MinutePluralPostfix: út
 Brew_OneYear: Jeden Rok
 Brew_ThickBrew: Špinavý Nápoj
 Brew_Undefined: Kotlíkový Nápoj
 Brew_Woodtype: Typ Dreva
 Brew_Years: Rokov
 Brew_fermented: kvasené
-Brew_minute: minút
+Brew_minute: min
 Brew_Alc: Alc &v1ml
 
 # CMD
