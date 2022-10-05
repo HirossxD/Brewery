@@ -663,7 +663,7 @@ recipes:
       - WEAKNESS/15
       - POISON/10
 
-  melon_vodka
+  melon_vodka:
     name: Melonová Domáca/Melonová Pálenka/&6Melónovica
     ingredients:
       - melon_slince/20
