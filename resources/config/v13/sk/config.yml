@@ -225,14 +225,14 @@ cauldron:
       - 'fab09e/15' # faded red
 
   bmushroom:
-    name: Mushroom brew
+    name: Hubobý nápoj
     ingredients: Brown_Mushroom
     color: 'c68c53' # brighter brown
     cookParticles:
       - 'c68c53/15'
 
   cocoa:
-    name: Chocolately brew
+    name: Čokoládový nápoj
     ingredients: Cocoa_Beans
     color: '804600' # mocca
     cookParticles:
@@ -256,7 +256,7 @@ cauldron:
       - '0099ff'
 
   cactus:
-    name: Agave brew
+    name: Kaktusový mok
     ingredients: cactus
     color: '00b300' # cactus green
     cookParticles:
@@ -272,7 +272,7 @@ cauldron:
 
 
   oak_sapling:
-    name: Stringy hebry broth
+    name: Vláknitý rastlinný vývar
     ingredients: Oak_Sapling
 
   vine:
@@ -284,7 +284,7 @@ cauldron:
       - '99ff99/20' # faded green
 
   rot_flesh:
-    name: Foul pest
+    name: Hnusný škodlivý nápoj
     ingredients: Rotten_Flesh
     color: '263300' # brown green
     cookParticles:
@@ -292,23 +292,23 @@ cauldron:
       - 'BLACK/20'
 
   melon:
-    name: Melon juice
+    name: Melónový džús
     ingredients: melon_slice
 
   wheat_seeds:
-    name: Bitter brew
+    name: Trpký vývar
     ingredients: Wheat_Seeds
 
   melon_seeds:
-    name: Bitter brew
+    name: Trpký vývar
     ingredients: Melon_Seeds
 
   pumpkin_seeds:
-    name: Trpký nápoj
+    name: Trpký vývar
     ingredients: Pumpkin_Seeds
 
   bone_meal:
-    name: Bony Brew
+    name: Kostný vývar
     ingredients: bone_meal
     color: BRIGHT_GREY
 
@@ -326,22 +326,22 @@ cauldron:
     ingredients: Fermented_Spider_Eye
 
   ghast_tear:
-    name: Sad brew
+    name: Smutný vývar
     ingredients: ghast_tear
 
   snowball:
-    name: Icewater
+    name: Ľadová voda
     ingredients: Snowball
 
   Gold_Nugget:
-    name: Glistering brew
+    name: Ligotavý vývar
     ingredients: Gold_Nugget
     color: 'ffd11a' # gold
     cookParticles:
       - 'ffd11a'
 
   glowstone_dust:
-    name: Glowing brew
+    name: Svietiaci vývar
     ingredients: Glowstone_Dust
     color: 'ffff33' # bright yellow
     cookParticles:
@@ -350,7 +350,7 @@ cauldron:
 
   # -- Multiple Ingredients: --
   applemead_base:
-    name: Apple-Sugar brew
+    name: Sladký Jablkový nápoj
     ingredients:
       - Sugar_Cane/3
       - Apple
@@ -359,7 +359,7 @@ cauldron:
       - 'e1ff4d/4'
 
   poi_grass:
-    name: Boiled acidy herbs
+    name: Jedovatý vývar
     ingredients:
       - Grass
       - Poisonous_Potato
@@ -369,7 +369,7 @@ cauldron:
       - '99ff99/20' # faded green
 
   juniper:
-    name: Juniper brew
+    name: Juniper vývar
     ingredients:
       - blue-flowers
       - wheat
@@ -378,7 +378,7 @@ cauldron:
       - '00ccff/8'
 
   gin_base:
-    name: Fruity juniper brew
+    name: Ovocný juniper vývar
     ingredients:
       - blue-flowers
       - wheat
@@ -388,7 +388,7 @@ cauldron:
       - '00ccff/5'
 
   eggnog_base:
-    name: Smooth egg mixture
+    name: Šlahané vajcia
     ingredients:
       - egg
       - sugar
@@ -642,7 +642,7 @@ recipes:
       - POISON/10
 
   shroom_vodka:
-    name: Mushroom Vodka/Mushroom Vodka/Glowing Mushroom Vodka
+    name: Hubová Vodka/Hubová Vodka/Svietiaca Hubová Vodka
     ingredients:
       - Potato/10
       - Red_Mushroom/3
