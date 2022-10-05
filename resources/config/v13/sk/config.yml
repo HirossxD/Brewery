@@ -485,7 +485,7 @@ recipes:
     color: 'ffb84d' # Orange
     difficulty: 1
     alcohol: 5
-    lore: +++ &8Refreshing
+    lore: +++ &8Osviežujúce
 
   beer:
     name: Zvetrané Pivo/Pivo/Vydarené Pivo
@@ -498,7 +498,7 @@ recipes:
     color: 'ffd333' # Bright Orange
     difficulty: 1
     lore:
-      - +++ &8Crisp taste
+      - +++ &8Svieža chuť
     alcohol: 6
 
   darkbeer:
@@ -512,7 +512,7 @@ recipes:
     color: '650013' # Dark Red-Brown
     difficulty: 2
     lore:
-      - +++ &8Roasted taste
+      - +++ &8Pražená chuť
     alcohol: 7
 
   wine:
@@ -527,10 +527,10 @@ recipes:
     difficulty: 4
     alcohol: 8
     lore:
-      - '+ &8Harsh'
-      - '+ &8Corked'
-      - '++ &8Mellow'
-      - '+++ &8Full-Bodied'
+      - '+ &8Drsné'
+      - '+ &8Korkované'
+      - '++ &8Mäkké'
+      - '+++ &8Sýte'
 
   mead:
     name: Slabá Medovina/Medovina/&6Zlatá Medovina
@@ -543,7 +543,7 @@ recipes:
     color: ORANGE
     difficulty: 2
     lore:
-      - +++ Has a golden shine
+      - +++ Žiari zlatou farmou
     alcohol: 9
 
   ap_mead:
@@ -559,9 +559,9 @@ recipes:
     difficulty: 4
     alcohol: 11
     lore:
-      - +Is there any Apple in this?
-      - ++Refreshing taste of Apple
-      - +++Sweetest hint of Apple
+      - +Je v tom vôbec jablko?
+      - ++Osviežujúca chuť jabĺk
+      - +++Z najsladších jabĺk
     effects:
       - WATER_BREATHING/1-2/150
 
@@ -589,8 +589,8 @@ recipes:
     difficulty: 5
     alcohol: 14
     lore:
-      - +Sour like Acid
-      - +++ Good Apple Liquor
+      - +Kyslé sťa kyselina
+      - +++ Fajný jablkový likér
 
   whiskey:
     name: Matná Whiskey/Whiskey/Škótska Whiskey
@@ -604,7 +604,7 @@ recipes:
     color: ORANGE
     difficulty: 7
     alcohol: 26
-    lore: '&7Single Malt'
+    lore: '&7Jedinečná chuť'
 
   rum:
     name: Trpký Rum/Sudový Rum/&6Zlatý Rum
@@ -669,7 +669,7 @@ recipes:
     color: 'ff9999' # Pink-Red
     difficulty: 7
     alcohol: 18
-    lore: +++&aGlows in the dark
+    lore: +++&aSvieti v tme
     effects:
       - WEAKNESS/80
       - CONFUSION/27
@@ -689,10 +689,10 @@ recipes:
     difficulty: 6
     alcohol: 20
     lore:
-      - ++ With the
-      - ++ taste of juniper
+      - ++ Z
+      - ++ chuťou borievky
       - +++ Perfektné chuťové zakončenie
-      - +++ with juniper
+      - +++ Z borievkou
 
   tequila:
     name: Mezcal/Tequila/Tequila anejo
@@ -705,7 +705,7 @@ recipes:
     wood: 1
     age: 12
     alcohol: 20
-    lore: Desert spirit
+    lore: Púštny tón
 
   absinthe:
     name: Lacný Absinth/Absinth/Silný Absinth
@@ -719,7 +719,7 @@ recipes:
     alcohol: 42
     effects:
       - POISON/15-25
-    lore: '+++&8High proof liquor'
+    lore: '+++&8Vysokokvalitný likér'
 
   gr_absinthe:
     name: Lacný Absinth/Zelený Absinth/Jasne Zelený Absinth
@@ -736,7 +736,7 @@ recipes:
       - POISON/25-40
       - HARM/2
       - NIGHT_VISION/40-60
-    lore: '&aLooks poisonous'
+    lore: '&aVyzerá jedovato'
 
   potato_soup:
     name: Zemiaková Polievočka
